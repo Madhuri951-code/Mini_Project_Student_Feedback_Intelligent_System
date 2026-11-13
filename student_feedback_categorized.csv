@@ -1,0 +1,41 @@
+Student_ID,Feedback,Cleaned_Feedback,Positive_Score,Negative_Score,Neutral_Score,Compound_Score,Sentiment,Category
+S001,The teacher explains concepts very clearly.,teacher explains concepts clearly,0.374,0.0,0.626,0.4576,Positive,Teaching
+S002,The teaching methods are excellent and easy to understand.,teaching methods excellent easy understand,0.485,0.0,0.515,0.765,Positive,Teaching
+S003,Teachers are very supportive and helpful.,teachers supportive helpful,0.581,0.0,0.419,0.6764,Positive,Teaching
+S004,The teacher does not explain topics properly.,teacher not explain topics properly,0.0,0.0,1.0,0.0,Neutral,Teaching
+S005,Class lectures are interesting and informative.,class lectures interesting informative,0.351,0.0,0.649,0.4019,Positive,Teaching
+S006,The teaching pace is too fast for students.,teaching pace fast students,0.0,0.0,1.0,0.0,Neutral,Teaching
+S007,Assignments are very difficult and time consuming.,assignments difficult time consuming,0.0,0.318,0.682,-0.4201,Negative,Assignments
+S008,We need more practical assignments and projects.,need practical assignments projects,0.0,0.0,1.0,0.0,Neutral,Assignments
+S009,The homework workload is too heavy.,homework workload heavy,0.0,0.0,1.0,0.0,Neutral,Assignments
+S010,Assignments are useful and improve our knowledge.,assignments useful improve knowledge,0.537,0.0,0.463,0.7003,Positive,Assignments
+S011,Practical assignments help us understand concepts.,practical assignments help us understand concepts,0.351,0.0,0.649,0.4019,Positive,Assignments
+S012,The assignment instructions are confusing.,assignment instructions confusing,0.0,0.322,0.678,-0.2263,Negative,Assignments
+S013,The classroom facilities are excellent.,classroom facilities excellent,0.481,0.0,0.519,0.5719,Positive,Infrastructure
+S014,The laboratory equipment is outdated.,laboratory equipment outdated,0.0,0.0,1.0,0.0,Neutral,Infrastructure
+S015,College library facilities are very good.,college library facilities good,0.39,0.0,0.61,0.4927,Positive,Infrastructure
+S016,The classroom is dirty and uncomfortable.,classroom dirty uncomfortable,0.0,0.579,0.421,-0.6705,Negative,Infrastructure
+S017,Laboratory facilities need improvement.,laboratory facilities need improvement,0.5,0.0,0.5,0.4588,Positive,Infrastructure
+S018,The college infrastructure is well maintained.,college infrastructure well maintained,0.296,0.0,0.704,0.2732,Positive,Infrastructure
+S019,The syllabus is too lengthy and difficult.,syllabus lengthy difficult,0.0,0.294,0.706,-0.3612,Negative,Course Structure
+S020,The course structure is well organized.,course structure well organized,0.296,0.0,0.704,0.2732,Positive,Course Structure
+S021,The subject workload is too high.,subject workload high,0.0,0.0,1.0,0.0,Neutral,Assignments
+S022,The syllabus is easy to understand.,syllabus easy understand,0.367,0.0,0.633,0.4404,Positive,Course Structure
+S023,The course pace is too fast.,course pace fast,0.0,0.0,1.0,0.0,Neutral,Course Structure
+S024,The subject content is interesting and useful.,subject content interesting useful,0.528,0.0,0.472,0.6808,Positive,Course Structure
+S025,Teachers provide excellent guidance during practical sessions.,teachers provide excellent guidance practical sessions,0.381,0.0,0.619,0.5719,Positive,Teaching
+S026,The laboratory computers are not working properly.,laboratory computers not working properly,0.0,0.0,1.0,0.0,Neutral,Infrastructure
+S027,The assignments are simple and helpful.,assignments simple helpful,0.359,0.0,0.641,0.4215,Positive,Assignments
+S028,The course syllabus needs to be updated.,course syllabus needs updated,0.0,0.0,1.0,0.0,Neutral,Course Structure
+S029,The classroom environment is peaceful.,classroom environment peaceful,0.444,0.0,0.556,0.4939,Positive,Infrastructure
+S030,The teaching quality is poor.,teaching quality poor,0.0,0.437,0.563,-0.4767,Negative,Teaching
+S031,We need more practical learning opportunities.,need practical learning opportunities,0.364,0.0,0.636,0.4336,Positive,Assignments
+S032,The college library needs more books.,college library needs books,0.0,0.0,1.0,0.0,Neutral,Infrastructure
+S033,The teacher gives clear explanations and examples.,teacher gives clear explanations examples,0.302,0.0,0.698,0.3818,Positive,Teaching
+S034,Students are unhappy with the assignment workload.,students unhappy assignment workload,0.0,0.318,0.682,-0.4215,Negative,Assignments
+S035,The laboratory infrastructure is poor.,laboratory infrastructure poor,0.0,0.437,0.563,-0.4767,Negative,Infrastructure
+S036,The course content is well structured.,course content well structured,0.296,0.0,0.704,0.2732,Positive,Course Structure
+S037,The teacher encourages students to ask questions.,teacher encourages students ask questions,0.326,0.0,0.674,0.4404,Positive,Teaching
+S038,The practical sessions are not sufficient.,practical sessions not sufficient,0.0,0.0,1.0,0.0,Neutral,Assignments
+S039,The classroom facilities need improvement.,classroom facilities need improvement,0.429,0.0,0.571,0.4588,Positive,Infrastructure
+S040,The syllabus and course structure are excellent.,syllabus course structure excellent,0.381,0.0,0.619,0.5719,Positive,Course Structure
